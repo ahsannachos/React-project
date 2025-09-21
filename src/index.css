@@ -1,0 +1,43 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'GoldbillXLBold';
+  src: url('./assets/fonts/Goldbill-XLBold.woff2') format('woff2'),
+       url('./assets/fonts/Goldbill-XLExtraBold.woff2') format('woff2'),
+       url('./assets/fonts/Goldbill-XLExtraBold.woff') format('woff'),  
+       url('./assets/fonts/Goldbill-XLBold.woff') format('woff');  
+       
+  
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+@font-face {
+  font-family: 'Goldbill';
+  src: url('./assets/fonts/Goldbill-XLExtraBold.woff2') format('woff2'),
+       url('./assets/fonts/Goldbill-XLExtraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+.custom-font {
+  font-family: 'Goldbill-XLExtraBold', sans-serif;
+  font-weight: 900;
+  font-style: bold;
+}
+
+html {
+  font-family: 'GoldbillXLBold', sans-serif;
+}
+
+
+
+.glass-btn {
+  @apply flex items-center justify-center w-13 h-13 rounded-full bg-white/10 backdrop-blur-md shadow-lg hover:scale-110 transition;
+}
+
+@theme {
+  --color-antragold: #caa05c;
+ 
+}
+

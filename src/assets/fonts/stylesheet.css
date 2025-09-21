@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLMedium.eot');
+    src: local('Goldbill XL Medium'), local('Goldbill-XLMedium'),
+        url('Goldbill-XLMedium.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLMedium.woff2') format('woff2'),
+        url('Goldbill-XLMedium.woff') format('woff'),
+        url('Goldbill-XLMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL Demi';
+    src: url('Goldbill-XLDemiBoldItalic.eot');
+    src: local('Goldbill XL Demi Bold Italic'), local('Goldbill-XLDemiBoldItalic'),
+        url('Goldbill-XLDemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLDemiBoldItalic.woff2') format('woff2'),
+        url('Goldbill-XLDemiBoldItalic.woff') format('woff'),
+        url('Goldbill-XLDemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLBold.eot');
+    src: local('Goldbill XL Bold'), local('Goldbill-XLBold'),
+        url('Goldbill-XLBold.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLBold.woff2') format('woff2'),
+        url('Goldbill-XLBold.woff') format('woff'),
+        url('Goldbill-XLBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLMediumItalic.eot');
+    src: local('Goldbill XL Medium Italic'), local('Goldbill-XLMediumItalic'),
+        url('Goldbill-XLMediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLMediumItalic.woff2') format('woff2'),
+        url('Goldbill-XLMediumItalic.woff') format('woff'),
+        url('Goldbill-XLMediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLRegular.eot');
+    src: local('Goldbill XL'), local('Goldbill-XLRegular'),
+        url('Goldbill-XLRegular.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLRegular.woff2') format('woff2'),
+        url('Goldbill-XLRegular.woff') format('woff'),
+        url('Goldbill-XLRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL Extra';
+    src: url('Goldbill-XLExtraBoldItalic.eot');
+    src: local('Goldbill XL Extra Bold Italic'), local('Goldbill-XLExtraBoldItalic'),
+        url('Goldbill-XLExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLExtraBoldItalic.woff2') format('woff2'),
+        url('Goldbill-XLExtraBoldItalic.woff') format('woff'),
+        url('Goldbill-XLExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLLight.eot');
+    src: local('Goldbill XL Light'), local('Goldbill-XLLight'),
+        url('Goldbill-XLLight.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLLight.woff2') format('woff2'),
+        url('Goldbill-XLLight.woff') format('woff'),
+        url('Goldbill-XLLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLItalic.eot');
+    src: local('Goldbill XL Italic'), local('Goldbill-XLItalic'),
+        url('Goldbill-XLItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLItalic.woff2') format('woff2'),
+        url('Goldbill-XLItalic.woff') format('woff'),
+        url('Goldbill-XLItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLBlackItalic.eot');
+    src: local('Goldbill XL Black Italic'), local('Goldbill-XLBlackItalic'),
+        url('Goldbill-XLBlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLBlackItalic.woff2') format('woff2'),
+        url('Goldbill-XLBlackItalic.woff') format('woff'),
+        url('Goldbill-XLBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLHeavyItalic.eot');
+    src: local('Goldbill XL Heavy Italic'), local('Goldbill-XLHeavyItalic'),
+        url('Goldbill-XLHeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLHeavyItalic.woff2') format('woff2'),
+        url('Goldbill-XLHeavyItalic.woff') format('woff'),
+        url('Goldbill-XLHeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL Extra';
+    src: url('Goldbill-XLExtraBold.eot');
+    src: local('Goldbill XL Extra Bold'), local('Goldbill-XLExtraBold'),
+        url('Goldbill-XLExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLExtraBold.woff2') format('woff2'),
+        url('Goldbill-XLExtraBold.woff') format('woff'),
+        url('Goldbill-XLExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLHeavy.eot');
+    src: local('Goldbill XL Heavy'), local('Goldbill-XLHeavy'),
+        url('Goldbill-XLHeavy.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLHeavy.woff2') format('woff2'),
+        url('Goldbill-XLHeavy.woff') format('woff'),
+        url('Goldbill-XLHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLThinItalic.eot');
+    src: local('Goldbill XL Thin Italic'), local('Goldbill-XLThinItalic'),
+        url('Goldbill-XLThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLThinItalic.woff2') format('woff2'),
+        url('Goldbill-XLThinItalic.woff') format('woff'),
+        url('Goldbill-XLThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLThin.eot');
+    src: local('Goldbill XL Thin'), local('Goldbill-XLThin'),
+        url('Goldbill-XLThin.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLThin.woff2') format('woff2'),
+        url('Goldbill-XLThin.woff') format('woff'),
+        url('Goldbill-XLThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL Demi';
+    src: url('Goldbill-XLDemiBold.eot');
+    src: local('Goldbill XL Demi Bold'), local('Goldbill-XLDemiBold'),
+        url('Goldbill-XLDemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLDemiBold.woff2') format('woff2'),
+        url('Goldbill-XLDemiBold.woff') format('woff'),
+        url('Goldbill-XLDemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLLightItalic.eot');
+    src: local('Goldbill XL Light Italic'), local('Goldbill-XLLightItalic'),
+        url('Goldbill-XLLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLLightItalic.woff2') format('woff2'),
+        url('Goldbill-XLLightItalic.woff') format('woff'),
+        url('Goldbill-XLLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLBlack.eot');
+    src: local('Goldbill XL Black'), local('Goldbill-XLBlack'),
+        url('Goldbill-XLBlack.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLBlack.woff2') format('woff2'),
+        url('Goldbill-XLBlack.woff') format('woff'),
+        url('Goldbill-XLBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldbill XL';
+    src: url('Goldbill-XLBoldItalic.eot');
+    src: local('Goldbill XL Bold Italic'), local('Goldbill-XLBoldItalic'),
+        url('Goldbill-XLBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Goldbill-XLBoldItalic.woff2') format('woff2'),
+        url('Goldbill-XLBoldItalic.woff') format('woff'),
+        url('Goldbill-XLBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
