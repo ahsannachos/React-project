@@ -1,4 +1,3 @@
-// CursorFollower file dont mess wit it you will not get my logic i spend too much time on this shit!!!!!!!!!!!!!!!!!!!!!!!!
 import { useEffect, useState } from "react";
 
 export default function CursorFollower() {
@@ -16,6 +15,7 @@ export default function CursorFollower() {
         setInvert(true);      
       }
     };
+    //  dont mess wit it you will not get my logic i spend too much time on this shit!!!!!!!!!!!!!!!!!!!!!!!! this is a hell hole get out from my code
     const onOut = (e) => {
       if (e.target.closest(".cursor-target")) {
         setScale(1);
