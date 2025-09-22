@@ -1,4 +1,4 @@
-
+// This is a shopify backend secure and closed, dont mess with it!!!!!!
 
 const domain = import.meta.env.VITE_SHOPIFY_DOMAIN;
 const storefrontAccessToken = import.meta.env.VITE_SHOPIFY_STOREFRONT_TOKEN;
